@@ -1,2 +1,2 @@
 # css-button-animation
-# Off / On Password input 
+# Show / Hide Password
